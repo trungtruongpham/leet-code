@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArrayII", "RemoveDuplicatesFromSortedArrayII\RemoveDuplicatesFromSortedArrayII.csproj", "{0C5EA92F-2C29-4F9B-9ADE-EF1A76527373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MajorityElement", "MajorityElement\MajorityElement.csproj", "{0A4F2CC6-C9FA-44AF-82B9-B864A1B3DB54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C5EA92F-2C29-4F9B-9ADE-EF1A76527373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C5EA92F-2C29-4F9B-9ADE-EF1A76527373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C5EA92F-2C29-4F9B-9ADE-EF1A76527373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C5EA92F-2C29-4F9B-9ADE-EF1A76527373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A4F2CC6-C9FA-44AF-82B9-B864A1B3DB54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4F2CC6-C9FA-44AF-82B9-B864A1B3DB54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4F2CC6-C9FA-44AF-82B9-B864A1B3DB54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4F2CC6-C9FA-44AF-82B9-B864A1B3DB54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

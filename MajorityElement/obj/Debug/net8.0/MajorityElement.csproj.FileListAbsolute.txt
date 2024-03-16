@@ -1,0 +1,14 @@
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\bin\Debug\net8.0\MajorityElement.exe
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\bin\Debug\net8.0\MajorityElement.deps.json
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\bin\Debug\net8.0\MajorityElement.runtimeconfig.json
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\bin\Debug\net8.0\MajorityElement.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\bin\Debug\net8.0\MajorityElement.pdb
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\obj\Debug\net8.0\MajorityElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\obj\Debug\net8.0\MajorityElement.AssemblyInfoInputs.cache
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\obj\Debug\net8.0\MajorityElement.AssemblyInfo.cs
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\obj\Debug\net8.0\MajorityElement.csproj.CoreCompileInputs.cache
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\obj\Debug\net8.0\MajorityElement.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\obj\Debug\net8.0\refint\MajorityElement.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\obj\Debug\net8.0\MajorityElement.pdb
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\obj\Debug\net8.0\MajorityElement.genruntimeconfig.cache
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\obj\Debug\net8.0\ref\MajorityElement.dll
