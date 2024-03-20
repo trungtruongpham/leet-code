@@ -12,3 +12,4 @@ C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\obj
 C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\obj\Debug\net8.0\MajorityElement.pdb
 C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\obj\Debug\net8.0\MajorityElement.genruntimeconfig.cache
 C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\obj\Debug\net8.0\ref\MajorityElement.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\MajorityElement\obj\Debug\net8.0\MajorityElement.sourcelink.json

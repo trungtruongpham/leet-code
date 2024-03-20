@@ -25,7 +25,7 @@ int MaxProfit(int[] prices)
 
 // Optimized solution from ChatGPT, it use 1 variable to find min value and 1 variable to store maxProfit. By this way
 // this solution can reduce time complexity to O(n) and pass all test cases
-int MaxProfitChatgpt(int[]? prices) {
+int MaxProfitChatGpt(int[]? prices) {
     if (prices == null || prices.Length < 2) {
         return 0; // If there are fewer than two prices, we cannot make any profit
     }
@@ -33,7 +33,7 @@ int MaxProfitChatgpt(int[]? prices) {
     var minPrice = prices[0]; // Initialize the minimum price to the first price
     var maxProfit = 0; // Initialize the maximum profit to zero
 
-    for (int i = 1; i < prices.Length; i++) {
+    for (var i = 1; i < prices.Length; i++) {
         // Update the minimum price if the current price is lower
         minPrice = Math.Min(minPrice, prices[i]);
 
