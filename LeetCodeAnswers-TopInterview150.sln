@@ -10,6 +10,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStockII
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGame", "JumpGame\JumpGame.csproj", "{A98EE77A-1942-4756-8E1A-4BB038A63AB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGameII", "JumpGameII\JumpGameII.csproj", "{4ADA9DEE-00DA-43F5-B68E-8C981D441FAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{8E25C344-1D28-4A4A-AE51-DE8E4B49A1A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{A98EE77A-1942-4756-8E1A-4BB038A63AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A98EE77A-1942-4756-8E1A-4BB038A63AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A98EE77A-1942-4756-8E1A-4BB038A63AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ADA9DEE-00DA-43F5-B68E-8C981D441FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADA9DEE-00DA-43F5-B68E-8C981D441FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADA9DEE-00DA-43F5-B68E-8C981D441FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADA9DEE-00DA-43F5-B68E-8C981D441FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E25C344-1D28-4A4A-AE51-DE8E4B49A1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E25C344-1D28-4A4A-AE51-DE8E4B49A1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E25C344-1D28-4A4A-AE51-DE8E4B49A1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E25C344-1D28-4A4A-AE51-DE8E4B49A1A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
