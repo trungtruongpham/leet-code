@@ -1,0 +1,15 @@
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IntegerToRoman\bin\Debug\net8.0\IntegerToRoman.exe
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IntegerToRoman\bin\Debug\net8.0\IntegerToRoman.deps.json
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IntegerToRoman\bin\Debug\net8.0\IntegerToRoman.runtimeconfig.json
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IntegerToRoman\bin\Debug\net8.0\IntegerToRoman.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IntegerToRoman\bin\Debug\net8.0\IntegerToRoman.pdb
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.AssemblyInfoInputs.cache
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.AssemblyInfo.cs
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.csproj.CoreCompileInputs.cache
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.sourcelink.json
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IntegerToRoman\obj\Debug\net8.0\refint\IntegerToRoman.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.pdb
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IntegerToRoman\obj\Debug\net8.0\IntegerToRoman.genruntimeconfig.cache
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IntegerToRoman\obj\Debug\net8.0\ref\IntegerToRoman.dll

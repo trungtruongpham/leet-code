@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGameII", "JumpGameII\Ju
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{8E25C344-1D28-4A4A-AE51-DE8E4B49A1A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerToRoman", "IntegerToRoman\IntegerToRoman.csproj", "{9E237493-0C65-480E-9FC0-E5508260F270}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{8E25C344-1D28-4A4A-AE51-DE8E4B49A1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E25C344-1D28-4A4A-AE51-DE8E4B49A1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E25C344-1D28-4A4A-AE51-DE8E4B49A1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E237493-0C65-480E-9FC0-E5508260F270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E237493-0C65-480E-9FC0-E5508260F270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E237493-0C65-480E-9FC0-E5508260F270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E237493-0C65-480E-9FC0-E5508260F270}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
