@@ -1,0 +1,15 @@
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\H-Index\bin\Debug\net8.0\H-Index.exe
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\H-Index\bin\Debug\net8.0\H-Index.deps.json
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\H-Index\bin\Debug\net8.0\H-Index.runtimeconfig.json
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\H-Index\bin\Debug\net8.0\H-Index.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\H-Index\bin\Debug\net8.0\H-Index.pdb
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\H-Index\obj\Debug\net8.0\H-Index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\H-Index\obj\Debug\net8.0\H-Index.AssemblyInfoInputs.cache
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\H-Index\obj\Debug\net8.0\H-Index.AssemblyInfo.cs
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\H-Index\obj\Debug\net8.0\H-Index.csproj.CoreCompileInputs.cache
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\H-Index\obj\Debug\net8.0\H-Index.sourcelink.json
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\H-Index\obj\Debug\net8.0\H-Index.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\H-Index\obj\Debug\net8.0\refint\H-Index.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\H-Index\obj\Debug\net8.0\H-Index.pdb
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\H-Index\obj\Debug\net8.0\H-Index.genruntimeconfig.cache
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\H-Index\obj\Debug\net8.0\ref\H-Index.dll

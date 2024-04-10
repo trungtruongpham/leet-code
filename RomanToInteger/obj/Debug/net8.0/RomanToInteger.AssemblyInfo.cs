@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RomanToInteger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6161a3bb0aa5773ef5ff10461a209bb8efc0700")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f49ce725d6bdd1d489e02528cc423467b2cb8e71")]
 [assembly: System.Reflection.AssemblyProductAttribute("RomanToInteger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RomanToInteger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
