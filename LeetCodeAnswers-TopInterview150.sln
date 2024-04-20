@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerToRoman", "IntegerTo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H-Index", "H-Index\H-Index.csproj", "{619ABFE2-5790-4511-A8E1-4B93C49196EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{60655D0F-27BF-4FF3-9EB1-DB20E1650200}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{619ABFE2-5790-4511-A8E1-4B93C49196EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{619ABFE2-5790-4511-A8E1-4B93C49196EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{619ABFE2-5790-4511-A8E1-4B93C49196EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60655D0F-27BF-4FF3-9EB1-DB20E1650200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60655D0F-27BF-4FF3-9EB1-DB20E1650200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60655D0F-27BF-4FF3-9EB1-DB20E1650200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60655D0F-27BF-4FF3-9EB1-DB20E1650200}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
