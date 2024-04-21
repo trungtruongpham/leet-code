@@ -1,0 +1,15 @@
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\bin\Debug\net8.0\IsSubsequence.exe
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\bin\Debug\net8.0\IsSubsequence.deps.json
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\bin\Debug\net8.0\IsSubsequence.runtimeconfig.json
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\bin\Debug\net8.0\IsSubsequence.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\bin\Debug\net8.0\IsSubsequence.pdb
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\obj\Debug\net8.0\IsSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\obj\Debug\net8.0\IsSubsequence.AssemblyInfoInputs.cache
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\obj\Debug\net8.0\IsSubsequence.AssemblyInfo.cs
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\obj\Debug\net8.0\IsSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\obj\Debug\net8.0\IsSubsequence.sourcelink.json
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\obj\Debug\net8.0\IsSubsequence.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\obj\Debug\net8.0\refint\IsSubsequence.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\obj\Debug\net8.0\IsSubsequence.pdb
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\obj\Debug\net8.0\IsSubsequence.genruntimeconfig.cache
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\obj\Debug\net8.0\ref\IsSubsequence.dll
