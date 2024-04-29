@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("H-Index")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6239b788b18d3f3ec8449891813bd086a08766c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a633dbdf681c1ba33c27e461a4c9c9b8c5b8429a")]
 [assembly: System.Reflection.AssemblyProductAttribute("H-Index")]
 [assembly: System.Reflection.AssemblyTitleAttribute("H-Index")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
