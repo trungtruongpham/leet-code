@@ -1,0 +1,15 @@
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\ContainerWithMostWater\bin\Debug\net8.0\ContainerWithMostWater.exe
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\ContainerWithMostWater\bin\Debug\net8.0\ContainerWithMostWater.deps.json
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\ContainerWithMostWater\bin\Debug\net8.0\ContainerWithMostWater.runtimeconfig.json
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\ContainerWithMostWater\bin\Debug\net8.0\ContainerWithMostWater.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\ContainerWithMostWater\bin\Debug\net8.0\ContainerWithMostWater.pdb
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.AssemblyInfoInputs.cache
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.AssemblyInfo.cs
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.csproj.CoreCompileInputs.cache
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.sourcelink.json
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\ContainerWithMostWater\obj\Debug\net8.0\refint\ContainerWithMostWater.dll
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.pdb
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\ContainerWithMostWater\obj\Debug\net8.0\ContainerWithMostWater.genruntimeconfig.cache
+C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\ContainerWithMostWater\obj\Debug\net8.0\ref\ContainerWithMostWater.dll
