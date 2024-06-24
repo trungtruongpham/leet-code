@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\TwoSumII-InputArrayIsSorted\\TwoSumII-InputArrayIsSorted.csproj": {}
+    "/Users/trungtruongpham/RiderProjects/leet-code/TwoSumII-InputArrayIsSorted/TwoSumII-InputArrayIsSorted.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\TwoSumII-InputArrayIsSorted\\TwoSumII-InputArrayIsSorted.csproj": {
+    "/Users/trungtruongpham/RiderProjects/leet-code/TwoSumII-InputArrayIsSorted/TwoSumII-InputArrayIsSorted.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\TwoSumII-InputArrayIsSorted\\TwoSumII-InputArrayIsSorted.csproj",
+        "projectUniqueName": "/Users/trungtruongpham/RiderProjects/leet-code/TwoSumII-InputArrayIsSorted/TwoSumII-InputArrayIsSorted.csproj",
         "projectName": "TwoSumII-InputArrayIsSorted",
-        "projectPath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\TwoSumII-InputArrayIsSorted\\TwoSumII-InputArrayIsSorted.csproj",
-        "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\TwoSumII-InputArrayIsSorted\\obj\\",
+        "projectPath": "/Users/trungtruongpham/RiderProjects/leet-code/TwoSumII-InputArrayIsSorted/TwoSumII-InputArrayIsSorted.csproj",
+        "packagesPath": "/Users/trungtruongpham/.nuget/packages/",
+        "outputPath": "/Users/trungtruongpham/RiderProjects/leet-code/TwoSumII-InputArrayIsSorted/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/trungtruongpham/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

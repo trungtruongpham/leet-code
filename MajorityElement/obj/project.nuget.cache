@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8T9v6AfND/qnWdE8Edqi7R3lAjGxBsjFvZJvAlM9BBlbXSGlXSY2xKcbS8yJLwwOifyeHbkmOOz4bx9duXx4eQ==",
+  "dgSpecHash": "h7/LtBzt3yUAG4rvuhWNgAHIwjnPQG0DDgdgHBYYZedeWaIkX95XXiPowT0ICmeR2uvU6cHG3/rOt14/5iy2CA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\MajorityElement\\MajorityElement.csproj",
+  "projectFilePath": "/Users/trungtruongpham/RiderProjects/leet-code/MajorityElement/MajorityElement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

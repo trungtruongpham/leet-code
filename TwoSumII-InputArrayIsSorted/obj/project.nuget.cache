@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TnKCeTVOD0dUxLem9m0ikUHOwP0ZnGLTXADjIevYp6sLuTFoVWNnwmGPa4QX7DH1eRa8cDZGgrfYC7Ih6x+jHA==",
+  "dgSpecHash": "FInDV0EubquTbNSJvYXNJLDNCgItuu674/fTEOD0ef+svH5VdVnGLrHPDEmeseEwy1bZWwIbPmIC0dS2gPIMvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\TwoSumII-InputArrayIsSorted\\TwoSumII-InputArrayIsSorted.csproj",
+  "projectFilePath": "/Users/trungtruongpham/RiderProjects/leet-code/TwoSumII-InputArrayIsSorted/TwoSumII-InputArrayIsSorted.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

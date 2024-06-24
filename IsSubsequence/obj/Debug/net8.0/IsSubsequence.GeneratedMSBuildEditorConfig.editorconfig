@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IsSubsequence
-build_property.ProjectDir = C:\Users\trung\RiderProjects\LeetCodeAnswers-TopInterview150\IsSubsequence\
+build_property.ProjectDir = /Users/trungtruongpham/RiderProjects/leet-code/IsSubsequence/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

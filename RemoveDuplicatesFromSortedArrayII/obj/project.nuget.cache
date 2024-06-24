@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fSzYJwRJomt0VnKi5jBR+lDOOG4axQwd7O4KUTNjwRotiYl4woequXuT6q5Ygpp6XV1zucsW9GrCMJPHBp570w==",
+  "dgSpecHash": "a1Y+F4rLqorb+kRDDaSV9nAXOxYRV48rWEqhzX3x/TPyk6cvMglnwRXa3EwGvbctC+WVLdxd5uVeFaBDXmhtVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\RemoveDuplicatesFromSortedArrayII\\RemoveDuplicatesFromSortedArrayII.csproj",
+  "projectFilePath": "/Users/trungtruongpham/RiderProjects/leet-code/RemoveDuplicatesFromSortedArrayII/RemoveDuplicatesFromSortedArrayII.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

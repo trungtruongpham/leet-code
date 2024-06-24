@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5JLt+KqY5cs7fvQ6IsFV4FfdeGQovxO4aPAPOIsWgXmn4VWNWf3m53kYZXoZLo9z/sZSu7Qwa/nboXa+ylDH9A==",
+  "dgSpecHash": "94KdmZu0MxkaevxeuUrEe0SHTeNhv/UfuTdlBUnPlX3N47T2zycGuooA4lHR3nt5yIo5Xlp2Zprk1CBbranfHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\ValidPalindrome\\ValidPalindrome.csproj",
+  "projectFilePath": "/Users/trungtruongpham/RiderProjects/leet-code/ValidPalindrome/ValidPalindrome.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

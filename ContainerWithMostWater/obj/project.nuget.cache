@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lONNq7xrPxMYQZWBDYZfwO/Vvb783ROG/Oo1n3Le2e+2fHnF/6iZLeMDSfzefHKRXtCxjsj1ngg5AZ9HZ2IytQ==",
+  "dgSpecHash": "DYYjWNjPbqKKTLbK99wCpxml2Pnpn3Aw7ROs5Cv6emXgPJS8yReneGeGNpPeHTsbhCZz0DJezx3YLaApJmT+Eg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\ContainerWithMostWater\\ContainerWithMostWater.csproj",
+  "projectFilePath": "/Users/trungtruongpham/RiderProjects/leet-code/ContainerWithMostWater/ContainerWithMostWater.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

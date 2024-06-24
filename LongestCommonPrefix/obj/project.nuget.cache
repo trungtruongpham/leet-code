@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ntQOWYIxt/I1ZE8dvoTYEelEjHvD/AYLnDMeOxUWBM4v+wPq7eLZyS1Cq9hYGvNhYCovrWeDnEFgRbJDS2RcQ==",
+  "dgSpecHash": "eBvfYreFbx2jSKb1B41P5VkLHBZ8TYJOPs3dAIVJAnzlxP6DpKeyasWAOMyD+xX6N4TbvH5z0t96+5ALl/R+Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\LongestCommonPrefix\\LongestCommonPrefix.csproj",
+  "projectFilePath": "/Users/trungtruongpham/RiderProjects/leet-code/LongestCommonPrefix/LongestCommonPrefix.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

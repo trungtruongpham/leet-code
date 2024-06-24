@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PS355PQoN97HzT000rO9LVB5QmQq6D3qVW5COzwnfNGTg0SLH+cfZTvECrVlzeAosgC/heB4zYFSQk02J+Z2iA==",
+  "dgSpecHash": "6Fodtzt7rGRIyIYmP0bvdenuqoVAbSuMnOYaTJ3iKRwaj2uKqargES8oilkttcC1IYXYUWqMsr8uK4kxaLgIfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\H-Index\\H-Index.csproj",
+  "projectFilePath": "/Users/trungtruongpham/RiderProjects/leet-code/H-Index/H-Index.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

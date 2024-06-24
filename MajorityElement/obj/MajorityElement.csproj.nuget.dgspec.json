@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\MajorityElement\\MajorityElement.csproj": {}
+    "/Users/trungtruongpham/RiderProjects/leet-code/MajorityElement/MajorityElement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\MajorityElement\\MajorityElement.csproj": {
+    "/Users/trungtruongpham/RiderProjects/leet-code/MajorityElement/MajorityElement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\MajorityElement\\MajorityElement.csproj",
+        "projectUniqueName": "/Users/trungtruongpham/RiderProjects/leet-code/MajorityElement/MajorityElement.csproj",
         "projectName": "MajorityElement",
-        "projectPath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\MajorityElement\\MajorityElement.csproj",
-        "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\MajorityElement\\obj\\",
+        "projectPath": "/Users/trungtruongpham/RiderProjects/leet-code/MajorityElement/MajorityElement.csproj",
+        "packagesPath": "/Users/trungtruongpham/.nuget/packages/",
+        "outputPath": "/Users/trungtruongpham/RiderProjects/leet-code/MajorityElement/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/trungtruongpham/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jbzMUoP06AJFuoNN0ou09TGozXJ/uuI+xW9hYiA/AzikxTSprR5hxUEkg0boiUvXUZC3I+6hBu8FMhhOFtzEkQ==",
+  "dgSpecHash": "+Ivvc//R45meM0MIItl2q/fXYDHIPF+28mwsnYIOR3JkEBzAMwYrFTIXVHJvxHA4sapf1r26B600tLiK5QObTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\IsSubsequence\\IsSubsequence.csproj",
+  "projectFilePath": "/Users/trungtruongpham/RiderProjects/leet-code/IsSubsequence/IsSubsequence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

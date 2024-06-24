@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII.csproj": {}
+    "/Users/trungtruongpham/RiderProjects/leet-code/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII.csproj": {
+    "/Users/trungtruongpham/RiderProjects/leet-code/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII.csproj",
+        "projectUniqueName": "/Users/trungtruongpham/RiderProjects/leet-code/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.csproj",
         "projectName": "BestTimeToBuyAndSellStockII",
-        "projectPath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII.csproj",
-        "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\BestTimeToBuyAndSellStockII\\obj\\",
+        "projectPath": "/Users/trungtruongpham/RiderProjects/leet-code/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.csproj",
+        "packagesPath": "/Users/trungtruongpham/.nuget/packages/",
+        "outputPath": "/Users/trungtruongpham/RiderProjects/leet-code/BestTimeToBuyAndSellStockII/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/trungtruongpham/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

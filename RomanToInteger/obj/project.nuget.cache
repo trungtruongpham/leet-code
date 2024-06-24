@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ovzq1TgnLfExu3XO5W6+bTs1em8pClGL3BG1jSlYiwC1eKi87UOj/ZLW3OZgMtz+v3XvLhr8dThGN4LESulaQ==",
+  "dgSpecHash": "DQ+1YCrLuE3fskEe/mLWt8QrZ6AtX0DkeAIXy5Sp8nNFHExbv4OqNAmF7Jds7pa+6wvprL/gL7d1aFqJs2KwMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\RomanToInteger\\RomanToInteger.csproj",
+  "projectFilePath": "/Users/trungtruongpham/RiderProjects/leet-code/RomanToInteger/RomanToInteger.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

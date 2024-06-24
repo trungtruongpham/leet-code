@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I0VtjKMMqN95zAXHUCUwG14mk2SFqrkFlFvRtODbri5cAcx6sGYHGW6LyLAAaxe38XIpsRrQIU62wCjxAEeZdA==",
+  "dgSpecHash": "QaPj2D7HL3CPhi5hIRTS7wyOE+6Vi2XE4waTr21ZcwczgfJUcCgI8T8Sd867mS/VTzqBVvOsqNvOk4a07qPgOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\IntegerToRoman\\IntegerToRoman.csproj",
+  "projectFilePath": "/Users/trungtruongpham/RiderProjects/leet-code/IntegerToRoman/IntegerToRoman.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

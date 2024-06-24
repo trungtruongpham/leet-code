@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MdhsWuISAd1X3MBTzG2t8X7tJQkYxSqQa1Vn0YF7i/rrMgbh2UH4Ks+hYWfEh3gEke065N6feDeaqlrjkrjaxw==",
+  "dgSpecHash": "W4EEIH0/5oJQIURGMH+e2iHufLkGrYLikioZHkTunEL5pYH3n9SZiCM/0xfrZ4HWVUzdO1Vk9gZxkHj9VNWDIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\JumpGame\\JumpGame.csproj",
+  "projectFilePath": "/Users/trungtruongpham/RiderProjects/leet-code/JumpGame/JumpGame.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

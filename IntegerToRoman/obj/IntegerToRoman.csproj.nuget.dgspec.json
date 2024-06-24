@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\IntegerToRoman\\IntegerToRoman.csproj": {}
+    "/Users/trungtruongpham/RiderProjects/leet-code/IntegerToRoman/IntegerToRoman.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\IntegerToRoman\\IntegerToRoman.csproj": {
+    "/Users/trungtruongpham/RiderProjects/leet-code/IntegerToRoman/IntegerToRoman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\IntegerToRoman\\IntegerToRoman.csproj",
+        "projectUniqueName": "/Users/trungtruongpham/RiderProjects/leet-code/IntegerToRoman/IntegerToRoman.csproj",
         "projectName": "IntegerToRoman",
-        "projectPath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\IntegerToRoman\\IntegerToRoman.csproj",
-        "packagesPath": "C:\\Users\\trung\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\IntegerToRoman\\obj\\",
+        "projectPath": "/Users/trungtruongpham/RiderProjects/leet-code/IntegerToRoman/IntegerToRoman.csproj",
+        "packagesPath": "/Users/trungtruongpham/.nuget/packages/",
+        "outputPath": "/Users/trungtruongpham/RiderProjects/leet-code/IntegerToRoman/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\trung\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/trungtruongpham/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r3olm3NPtAEKlU/+wFFnkf1bPUEFnXdZn6y6TI687ZTO/+DUErzvCkhQghHBlPFwBfA/Q1f8PifBgitUai5I4g==",
+  "dgSpecHash": "2jUct+SXOfK+9YjXuxr/spo3oXzuaOCzG54I5YiBQO69Y6xqIlqEXqel/3lPHcoRpGYstyYePx9t+8O2BNY8rQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trung\\RiderProjects\\LeetCodeAnswers-TopInterview150\\BestTimeToBuyAndSellStockII\\BestTimeToBuyAndSellStockII.csproj",
+  "projectFilePath": "/Users/trungtruongpham/RiderProjects/leet-code/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
